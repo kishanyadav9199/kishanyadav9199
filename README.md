@@ -1,5 +1,13 @@
-# 💫 About Me:
-🚀 Full-Stack Web Developer (MERN Stack)<br>🎓 B.Tech CSE | Technocrat Institute of Technology, Bhopal (2021–2025)<br><br>I’m a detail-oriented and passionate web developer with hands-on experience in building scalable, responsive, and user-centric web applications. I enjoy turning complex problems into simple, efficient solutions and continuously improving my technical skills.<br><br>💻 Tech Stack<br><br>Frontend: HTML, CSS, JavaScript (ES6+), React.js, Tailwind CSS<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB (Beginner in SQL)<br><br>Tools: Git, GitHub, REST APIs, Axios<br><br>🧠 What I’m Working On<br><br>Building full-stack MERN projects with authentication & dashboards<br><br>Strengthening React, Redux, and backend architecture<br><br>Improving problem-solving through DSA (LeetCode & CodeChef)<br><br>📌 Highlights<br><br>6+ months of experience as a Web Developer<br><br>Solved 150+ DSA problems on LeetCode<br><br>Solved 250+ problems on CodeChef<br><br>Built projects like MERN E-commerce Platform and Trailix (Movie Trailer App)<br><br>🌱 Currently Learning<br><br>Advanced React & Redux<br><br>SQL & system design basics<br><br>IoT and Computer Vision fundamentals<br><br>📫 Let’s connect:<br><br>Email: wwwkishan763@gmail.com
+👋 Hi, I’m Kishan Kumar
+🚀 Full-Stack Web Developer (MERN)
+🎓 B.Tech CSE | TIT Bhopal (2021–2025)
+
+I build scalable, responsive web apps using the MERN stack and enjoy solving problems and learning new technologies.
+
+💻 Tech: HTML, CSS, JavaScript (ES6+), React, Tailwind, Node.js, Express, MongoDB, Git, REST APIs
+📌 Highlights: 6+ months dev experience | 150+ LeetCode | 250+ CodeChef | MERN E-commerce & Trailix
+🌱 Learning: Advanced React, Redux, SQL, System Design
+📫 Email: wwwkishan763@gmail.com
 
 
 # 💻 Tech Stack:
